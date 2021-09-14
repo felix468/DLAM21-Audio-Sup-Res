@@ -1,0 +1,15 @@
+.DS_Store
+*.idea
+.idea/
+__pycache__/
+test/
+train/git
+val/
+raw_split/
+checkpoints/runs/
+runs/
+data/
+examples/
+datasets/vctk/VCTK-Corpus
+datasets/vctk/vctk-speaker1-train.4.16000.8192.4096.h5
+datasets/vctk/vctk-speaker1-val.4.16000.8192.4096.h5
